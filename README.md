@@ -1,2 +1,2 @@
 # VBA-challenge
-This repo contains me VBA homework
+This repo contains my VBA homework
